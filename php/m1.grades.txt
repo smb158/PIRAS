@@ -1,0 +1,12 @@
+#  File: m1.grades.txt
+#  Desc: list of grades for all students
+#Format: student_id classname year month credits grade (delimiter is ::) 
+#
+1001::cs 1655::2013::09::3::A
+1001::cs 1520::2012::01::3::C
+1001::cs 1550::2012::09::3::B
+1003::cs 1520::2012::09::3::A
+1001::cs 0449::2011::05::3::C
+1003::cs 1520::2011::01::3::D
+1003::cs 1520::2010::09::3::F
+1004::cs 1550::2010::09::3::A

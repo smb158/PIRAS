@@ -1,0 +1,8 @@
+#  File: m1.students.txt
+#  Desc: list of students
+#Format: student_id first_name last_name year (delimiter is ::)
+#
+1001::alex::labrinidis::freshman
+1003::ross::geller::senior
+1004::monica::geller::junior
+1006::peter::sellers::sophomore
